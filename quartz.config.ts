@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "🪴 Quartz 4.0",
+    pageTitle: "Polymathic Magic ✩‧₊˚༺☆༻*ੈ✩‧",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
@@ -29,15 +29,15 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#f3f0fb", // soft lavender
+          lightgray: "#ece5f0", // pale lavender gray
+          gray: "#c8bfe7", // light purple-gray
+          darkgray: "#8f79ad", // muted lilac
+          dark: "#574b74", // deep plum
+          secondary: "#574b74", // soft mint green
+          tertiary: "#f8c3c8", // blush pink
+          highlight: "rgba(255, 223, 240, 0.15)", // soft pink highlight
+          textHighlight: "#ffeab6", // soft golden shimmer
         },
         darkMode: {
           light: "#161618",
