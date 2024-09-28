@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Welcome to My Magical Apothecary
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+hii, I'm Saumya.
