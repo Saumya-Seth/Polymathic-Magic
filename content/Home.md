@@ -1,4 +1,4 @@
 ---
-title: Welcome to My Magical Apothecary
+title: Hello
 ---
 Welcome to The Hidden Magic Lab
