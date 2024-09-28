@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Polymathic Magic ✩‧₊˚༺☆༻*ੈ✩‧",
+    pageTitle: "The Hidden Magic Lab ✩‧₊˚༺☆༻*ੈ✩‧",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
