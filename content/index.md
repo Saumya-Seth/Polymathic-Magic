@@ -1,4 +1,4 @@
 ---
-title: Welcome to My Magical Apothecary
+title: Welcome to The Hidden Magic Lab
 ---
-hii, I'm Saumya.
+Hello
