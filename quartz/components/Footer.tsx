@@ -15,7 +15,7 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-        </p> Saumya Seth 
+        </p> © Saumya Seth 2024. Powered by <a href="https://github.com/jackyzha0/quartz"> Quartz </a>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
