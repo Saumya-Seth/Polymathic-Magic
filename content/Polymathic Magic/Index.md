@@ -1,7 +1,7 @@
 ---
 longform:
   format: scenes
-  title: Polymathic Magic
+  title: Notes
   workflow: Default Workflow
   sceneFolder: /
   scenes: []
