@@ -1,5 +1,5 @@
 ---
-title:
+title: Home
 ---
 hi, welcome to Polymathic Magic, a hidden magical lab tucked away in a secret corner of the web. 🧪✨🔮
 entry isn't open to all yet, so consider yourself one of a chosen few to witness something in it's *super* early stages. 
